@@ -1,0 +1,9 @@
+{
+	"name": "yamld",
+	"authors": [
+		"Dillen Meijboom"
+	],
+	"description": "YAML parser for D",
+	"copyright": "Copyright © 2017, Dillen Meijboom",
+	"license": "none"
+}
