@@ -1,12 +1,12 @@
 import token: Token;
 
-class Comment : Token
+class Literal : Token
 {
-    string comment;
+    string value;
 
     this(string c, int line)
     {
-        comment = c;
+        value = c;
         lineNumber = line;
     }
 }
